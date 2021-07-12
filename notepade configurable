@@ -1,0 +1,3 @@
+< configurable >
+// true if the type of this property descriptor may be changed and if the property may be deleted from 
+the corresponding object. Defaults to false. //
